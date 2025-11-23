@@ -12,6 +12,7 @@ This repo tracks my public talks, workshops, and podcasts. Find slides, videos, 
 - LinkedIn: [linkedin.com/in/vishnu-rachapudi-28956920b/](https://www.linkedin.com/in/vishnu-rachapudi-28956920b/)  
 - Dev.to: [dev.to/vishnu_rachapudi_75e73248](https://dev.to/vishnu_rachapudi_75e73248)  
 - Credly: [credly.com/users/venkata-pavan-vishnu-rachapudi](https://www.credly.com/users/venkata-pavan-vishnu-rachapudi)  
+- Email : rachapudivishnu9@gmail.com
 
 ---
 
@@ -20,7 +21,7 @@ This repo tracks my public talks, workshops, and podcasts. Find slides, videos, 
 | Date       | Event             | Title               | Notes           |
 |------------|-------------------|---------------------|-----------------|
 | December 20th 2025 | AWS Community Day Kochi 2025 (AI/ML Edition) | 	Transforming Enterprise Productivity with Amazon QuickSuite and AWS Transform: The Future of Agentic AI and Cloud Automation.  |   |
-| December 18th 2025 | AWS Student Community Day MLRIT 2025  | Deevelop and Deploy using Kiro & Apprunner  | Workshop session    |
+| December 18th 2025 | AWS Student Community Day MLRIT 2025  | Develop and Deploy using Kiro & Apprunner  | Workshop session    |
 ---
 
 ## Past Talks
@@ -46,4 +47,3 @@ Most slides and resources are under Creative Commons Attribution 4.0 (CC BY 4.0)
 
 ---
 
-- Email: (add your email here)
