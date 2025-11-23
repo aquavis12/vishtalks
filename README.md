@@ -37,7 +37,7 @@ This repo tracks my public talks, workshops, and podcasts. Find slides, videos, 
 
 | Date       | Platform           | Title              | Link                         |
 |------------|--------------------|--------------------|------------------------------|
-| June 2025 | Spotify    | AWS Certification Journey : Mirror Practice,Labs & Stay Consitent | [Learn2Upskill](https://open.spotify.com/episode/3OTnWRaYcl7FlQtArH3jel?si=BGPrk8ulTv-DtSJ2mZFByg&nd=1&dlsi=84228d9b934143cd) |
+| June 2025 | Spotify    | AWS Certification Journey : Mirror Practice,Labs & Stay consistent | [Learn2Upskill](https://open.spotify.com/episode/3OTnWRaYcl7FlQtArH3jel?si=BGPrk8ulTv-DtSJ2mZFByg&nd=1&dlsi=84228d9b934143cd) |
 
 ---
 
