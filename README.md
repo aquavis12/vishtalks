@@ -6,8 +6,7 @@ This repo tracks my public talks, workshops, and podcasts. Find slides, videos, 
 
 ## About Me
 
-- Cloud Engineer, Gen AI Explorer, occasional speaker , Security First  
-- AWS Community Builder | 12x AWS Certified | 2x Fortinet | 2x Oracle Cloud | 2x HashiCorp
+- AWS Community Builder | 14x AWS Certified | 2x Fortinet | 2x Oracle Cloud | 2x HashiCorp
 - GitHub: [@aquavis12](https://github.com/aquavis12)  
 - LinkedIn: [linkedin.com/in/vishnu-rachapudi-28956920b/](https://www.linkedin.com/in/vishnu-rachapudi-28956920b/)  
 - Dev.to: [dev.to/vishnu_rachapudi_75e73248](https://dev.to/vishnu_rachapudi_75e73248)  
@@ -20,7 +19,7 @@ This repo tracks my public talks, workshops, and podcasts. Find slides, videos, 
 
 | Date       | Event             | Title               | Notes           |
 |------------|-------------------|---------------------|-----------------|
-| Feb 28th 2026 | AWS User group Hyderabad Monthly Meet-up | Agentic AI on AWS from SDK to Runtime | (coming soon) |
+|March 7th 2026 | AWS User Group Punjab Monthly Meet Up | (coming soon) | (coming soon) |
 ---
 
 ## Past Talks
@@ -31,6 +30,7 @@ This repo tracks my public talks, workshops, and podcasts. Find slides, videos, 
 | October 16th 2025 | GITEX GLOBAL 2025| Q for the Future ENTERPRISE PRODUCTIVITY WITH Family of Qs      |  Post : https://www.linkedin.com/posts/vishnu-rachapudi-28956920b_gitexglobal-aws-amazonq-activity-7385007194389372928-UHvN? |
 | December 20th 2025 | AWS Community Day Kochi 2025 (AI/ML Edition) | 	Transforming Enterprise Productivity with Amazon QuickSuite and AWS Transform: The Future of Agentic AI and Cloud Automation.  | Post : https://www.linkedin.com/posts/vishnu-rachapudi-28956920b_awscommunityday-awskochi-aiml-activity-7410611761919221760-TsB-, Youtube : https://youtu.be/rQvlmRrE-Xs?si=pZczPP92JsAGatPI   |
 | December 18th 2025 | AWS Student Community Day MLRIT 2025  | Develop and Deploy using Kiro & Apprunner  | Post: https://www.linkedin.com/posts/vishnu-rachapudi-28956920b_aws-awscommunity-awsstudentcommunityday-activity-7407729259361976320-MOhE , Blog : https://dev.to/aws-builders/from-panelist-mentor-to-speaker-to-aws-certified-a-defining-week-in-my-aws-journey-2pkm   |
+| Feb 28th 2026 | AWS User group Hyderabad Monthly Meet-up | Agentic AI on AWS from SDK to Runtime | Post: https://www.linkedin.com/posts/vishnu-rachapudi-28956920b_awsusergroup-awshyderabad-agenticai-activity-7434052847039627264-HUgr , Banner : https://www.linkedin.com/posts/awsughyd_dont-miss-our-february-meetup-learn-connect-activity-7430429345812393984-DvEA | Slides : (Coming Soon) |
 ---
 
 
