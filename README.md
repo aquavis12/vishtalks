@@ -1,4 +1,4 @@
-# Talks — aquavis12
+# Vish Talks
 
 This repo tracks my public talks, workshops, and podcasts. Find slides, videos, and summaries here—all laid out clean and straightforward.
 
