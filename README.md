@@ -7,9 +7,9 @@ This repo tracks my public talks, workshops, and podcasts. Find slides, videos, 
 ## About Me
 
 - AWS Community Builder | 14x AWS Certified | 2x Fortinet | 2x Oracle Cloud | 2x HashiCorp
-- GitHub: [@aquavis12](https://github.com/aquavis12)  
 - LinkedIn: [linkedin.com/in/vishnu-rachapudi-28956920b/](https://www.linkedin.com/in/vishnu-rachapudi-28956920b/)  
-- Dev.to: [dev.to/vishnu_rachapudi_75e73248](https://dev.to/vishnu_rachapudi_75e73248)  
+- Dev.to: [dev.to/vishnu_rachapudi_75e73248](https://dev.to/vishnu_rachapudi_75e73248)
+- AWS Builder : [builder.aws.com/community/@vishnu1999](https://builder.aws.com/community/@vishnu1999)
 - Credly: [credly.com/users/venkata-pavan-vishnu-rachapudi](https://www.credly.com/users/venkata-pavan-vishnu-rachapudi)  
 - Email : rachapudivishnu9@gmail.com
 
